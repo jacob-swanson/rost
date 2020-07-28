@@ -1,6 +1,6 @@
 # Rost
 
-![build](https://github.com/jacob-swanson/rost/workflows/build/badge.svg?branch=master)
+![build](https://github.com/jacob-swanson/rost/workflows/build/badge.svg?event=push)
 
 **R**ust **O**perating **S**ys**t**em.
 
