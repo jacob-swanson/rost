@@ -1,0 +1,11 @@
+[build]
+# build against our custom target
+target = "x86_64-rost.json"
+
+[unstable]
+# tell cargo to recompile these libraries for the new target since there wont be a pre-compiled one
+build-std = ["core", "compiler_builtins"]
+
+# make the VM boot with `cargo run`
+[target.'cfg(target_os = "none")']
+runner = "bootimage runner"
