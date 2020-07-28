@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 
+## [0.3.0] - 2020-07-27
+### Added
+*  Setup GitHub Actions build
+
 ## [0.2.0] - 2020-07-27
 ### Added
 *  Achieved first boot
