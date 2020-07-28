@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 
+## [0.5.0] - 2020-07-28
+* Add serial I/O port
+* Add custom test framework
+
 ## [0.4.0] - 2020-07-27
 * Add `vga_buffer` module a simple way to print text to the screen.
 * Accomplished simple Hello World!
