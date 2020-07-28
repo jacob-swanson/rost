@@ -3,7 +3,7 @@
 [package]
 name = "rost"
 version = "0.1.0"
-authors = ["Jacob Swanson <jacob.swanson.n@gmail.com>"]
+authors = ["Jacob Swanson <me@jacob-swanson.com>"]
 edition = "2018"
 
 [dependencies]
