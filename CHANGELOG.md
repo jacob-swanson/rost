@@ -13,14 +13,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 
+## [0.4.0] - 2020-07-27
+### Added
+* Add `vga_buffer` module a simple way to print text to the screen.
+### Changed
+* Accomplished simple Hello World!
+
 ## [0.3.0] - 2020-07-27
 ### Added
-*  Setup GitHub Actions build
+* Setup GitHub Actions build.
 
 ## [0.2.0] - 2020-07-27
 ### Added
-*  Achieved first boot
+* Achieved first boot.
 
 ## [0.1.0] - 2020-07-27
 ### Added
-*  Setup build environment
+* Setup build environment.

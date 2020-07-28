@@ -2,10 +2,16 @@
 
 [package]
 name = "rost"
-version = "0.3.0"
+version = "0.4.0"
 authors = ["Jacob Swanson <me@jacob-swanson.com>"]
 edition = "2018"
 
 [dependencies]
 rlibc = "1.0.0"
 bootloader = "0.9.8"
+volatile = "0.2.6"
+spin = "0.5.2"
+
+[dependencies.lazy_static]
+version = "1.4.0"
+features = ["spin_no_std"]
