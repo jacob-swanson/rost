@@ -14,7 +14,7 @@ checksum = "fc874b127765f014d792f16763a81245ab80500e2ad921ed4ee9e82481ee08fe"
 
 [[package]]
 name = "rost"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "bootloader",
  "rlibc",
