@@ -12,6 +12,9 @@ use rost::println;
 #[no_mangle] // output non-cryptic function name
 pub extern "C" fn _start() -> ! {
     println!("Hello world!");
+
+    rost::init();
+
     #[cfg(test)]
     test_main();
     loop {}

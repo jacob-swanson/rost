@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Add serial I/O port
 * Add custom test framework
 * Add integration tests
+* Start handling CPU exceptions with the Interrupt Descriptor Table
 
 ## [0.4.0] - 2020-07-27
 * Add `vga_buffer` module a simple way to print text to the screen.
