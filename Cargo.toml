@@ -2,7 +2,7 @@
 
 [package]
 name = "rost"
-version = "0.6.0"
+version = "0.5.0"
 authors = ["Jacob Swanson <me@jacob-swanson.com>"]
 edition = "2018"
 
@@ -29,7 +29,4 @@ features = ["spin_no_std"]
 
 [[test]]
 name = "should_panic"
-harness = false
-[[test]]
-name = "stack_overflow"
 harness = false
